@@ -1,0 +1,13 @@
+R Tutotrial in RStudio
+
+Data basics
+Filter observations
+Create new variables
+Summarise Tables
+Set Up
+Hello, Tutorial!
+Multi-language exercises
+Tutorial Quiz Questions in `learnr`
+Chained setup chunks
+Chained setup chunks
+Interactive SQL Exercises
